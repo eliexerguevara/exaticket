@@ -512,7 +512,7 @@ chmod +x update-exacticket
 
 ## Aviso legal
 
-Empecé a aprender Javascript hace unos meses y este es mi primer proyecto. Puede tener problemas de seguridad y muchos errores. Recomiendo usarlo solo en la red local.
+Puede tener problemas de seguridad y muchos errores. Recomiendo usarlo solo en la red local.
 
 Este proyecto no está afiliado, asociado, autorizado, respaldado ni conectado oficialmente de ninguna manera con WhatsApp ni con ninguna de sus subsidiarias o afiliadas. El sitio web oficial de WhatsApp se encuentra en https://whatsapp.com. "WhatsApp", así como los nombres, marcas, emblemas e imágenes relacionados, son marcas registradas de sus respectivos propietarios.
 
